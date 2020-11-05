@@ -4,3 +4,8 @@ En caso de utilizar el codigo, cambiar el nombre de la aplicacion para que no si
 Asi como en la plantilla del menu principal
 
 Link del curso: https://www.youtube.com/playlist?list=PLZPrWDz1MolrxS1uw-u7PrnK66DCFmhDR
+
+Tecnologia empleada:
+Laravel version 5
+Bootstrap 4.0
+PHP 7.4.1
