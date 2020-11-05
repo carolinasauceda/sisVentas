@@ -5,6 +5,7 @@ namespace sisVentas\Http\Controllers;
 use Illuminate\Http\Request;
 
 use sisVentas\Http\Requests;
+use sisVentas\Http\Requests\VentaFormRequest;
 use DB;
 
 class VentaController extends Controller
