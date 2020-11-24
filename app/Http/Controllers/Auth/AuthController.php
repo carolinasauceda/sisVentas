@@ -71,6 +71,6 @@ class AuthController extends Controller
     }
 
     public function showRegistrationForm(){
-        return redirect('login');
+        return redirect('ventas/venta');
     }
 }
